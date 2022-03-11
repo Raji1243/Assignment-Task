@@ -1,6 +1,20 @@
-Step 1: npm install
-step 2: npm start
-step 3: UI Display with product Items. 
-step 4: selecte products - click add to cart
-step 5: click on cart icon and click on procced to checkout
-step 6 : click on history - In history UI they got total earned ponts displayed
+    
+# Project install and execute steps:
+
+## Install all packages, you can run:
+
+### `npm install`
+
+## In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+ 
+ ## UI Flow:
+ 1. Click on Home in NavBar.All product displayed
+ 2. Selecte some products by click on add to cart.
+ 3. selected products added in cart. Click on cart in NavBar.It shows all selected Products, total amount and earned points.
+ 4. Click on History in NavBar. It Shows all transaction details with earend points
